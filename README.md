@@ -3,18 +3,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=I'm+Sneha;Artificial+Intelligence+and+Data+Science+student;Japanese+Language+Learner" alt="Typing SVG" />
 </p>
 
-![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="700">
 </p>
 
-![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
+</p>
 
 🎓 Artificial Intelligence and Data Science Student  
 🈶 Passionate about the Japanese language and cross-cultural learning
 
-![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
+</p>
 
 ## 🧰 Tech Stack  
 
@@ -47,7 +53,9 @@
   <img src="https://img.shields.io/badge/Copilot-0A0A0A?style=for-the-badge&logo=github&logoColor=green"/>
 </p>
 
-![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
+</p>
 
 ## 📬 Connect with Me
 
@@ -60,8 +68,12 @@
   </a>
 </p>
 
-![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
+</p>
 
 <p align="center"><i>Thanks for visiting my GitHub!</i> 🚀</p>
 
-![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
+</p>
